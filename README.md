@@ -9,19 +9,29 @@ Today you will learn more about synthesing of sound and music. We will use three
 3. Ableton's [Learning Synth](https://learningsynths.ableton.com/). The audio modules used on this website are also created with MAX.
 
 ## In More Detail
-An easy way to learn about sound synthesis is to follow the learning path on [Learning Synth](https://learningsynths.ableton.com/).
 
-![The Home Page](221129_Learning_Synths.png)
+### Patches in the repository
+##### BEAP V4 Envelope Tester.maxpat - Get to Know an Envelope
+This patch allows you to see the effect of an envelope on the sound. Change the parameters for Attack, Decay, Sustain and Release on the ADSR module.
+![ADSR Envelope](221129ADSR.png)
 
-#### Patches in the repository
 ##### 221129_FM_Brass_2_4.maxpat - Basic syntheziser
-
 ![Basic Synthesiser](221129Snapshot.png)
 
 You can save your parameter settings by opening the Snapshot (blue camera icon on the left, see zoomed in image) and then click on new in the list that will open up. You can retrieve snapshots by right-clicking on the item you want to have.
 
+##### 221129 LightSaberV1.maxpat - A Star Wars Sound
+The patch is rather complex, save it on your computer before playing around with the parameters. You need to start it by pressing the button, switch on the loudspeaker by pressing the object at the bottom and increase the gain on the slider. Then try out different values in the number boxes.
+
+#####
+
+
 
 #### Learning Synths Website
+
+An easy way to learn about sound synthesis is to follow the learning path on [Learning Synth](https://learningsynths.ableton.com/).
+
+![The Home Page](221129_Learning_Synths.png)
 
 ![ToC](221129_Learing_Synths_Content.png)
 
