@@ -26,6 +26,15 @@ Here is a list of all subjects covered. You can either go through the course pag
   <img src="221129AbletonPlayground.png" alt="UI of Ableton Synths Playground"/>
 </a>
 
+##### The left column of the interface gives you plenty of possibilities:
+1. Record - You can record a clip of up to 60 seconds.
+2. Export - You can export your clip to a Digital Audio Workstation (DAW) to create your own multitrack song.
+3. Sequence - Choose on one of the sequences available (drop-down menu under "Sequence" and then change the settings in the other columns and see what happens
+4. Presets - The drop-down menu sets the synthesiser with many of the sounds/instruments introduced earlier in the course.
+5. Keyboard - You can also play notes (pitch) with the keyboard. You can only use either the keyboard or the sequencer.
+
+A synthesiser is a very powerful tool to create sounds. The Playground gives you audible and visible feedback on what you are doing. Pay attention to the pointers given, in particular the black points with the envelops. If a black point does not reach the end of the envelope, you should normally shorten the ADSR values. In order to understand what happens, first change one group of parameters and observe what happens. Next reset the values of the first group and proceed accordingly with all groups. In this way you get a better understanding on what heppens and can then afterwards truly synthesise your sounds.
+
 
 ## Further Materials
 - [Cycling'74 blog post about how to create the sound for the lightsaber](https://cycling74.com/forums/lightsaber-inspired-sound)
