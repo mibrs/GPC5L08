@@ -23,7 +23,10 @@ You can save your parameter settings by opening the Snapshot (blue camera icon o
 ##### 221129 LightSaberV1.maxpat - A Star Wars Sound
 The patch is rather complex, save it on your computer before playing around with the parameters. You need to start it by pressing the button, switch on the loudspeaker by pressing the object at the bottom and increase the gain on the slider. Then try out different values in the number boxes.
 
-#####
+##### 221129TwoOscillators1.maxpat - Two oscillators
+This patch allows you to see what happens if you have two oscillators running at the same time. Interesting is in particular the case when the frequency of osciallator 1 is nearly equal to that of oscillator 2. Try it out.
+
+**Challenge:** With some modifications to this patch you can also simulate a LFO (low frequency oscillator. For this you need to replace the ```+~``` Object with a ```*~``` Object and modify the scale object to give smaller values for the frequency (```scale 0 127 0 20```). Save the existing patch and then make the changes in the duplicate.
 
 
 
