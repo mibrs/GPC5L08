@@ -27,7 +27,10 @@ Here is a list of all subjects covered. You can either go through the course pag
 </a>
 
 ##### The left column of the interface gives you plenty of possibilities:
-1. Record - You can record a clip of up to 60 seconds.
+1. Record - You can record a clip of up to 60 seconds. When you stop the recording, a wav file will be saved on your computer. You can play it in MAX with the following simple patch:
+
+![SimpleWavPlayer](221129SimplePlayer2.png)
+
 2. Export - You can export your clip to a Digital Audio Workstation (DAW) to create your own multitrack song.
 3. Sequence - Choose on one of the sequences available (drop-down menu under "Sequence" and then change the settings in the other columns and see what happens
 4. Presets - The drop-down menu sets the synthesiser with many of the sounds/instruments introduced earlier in the course.
