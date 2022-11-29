@@ -13,10 +13,11 @@ Today you will learn more about synthesing of sound and music. We will use three
 ### Patches in the repository
 ##### BEAP V4 Envelope Tester.maxpat - Get to Know an Envelope
 This patch allows you to see the effect of an envelope on the sound. Change the parameters for Attack, Decay, Sustain and Release on the ADSR module.
+
 ![ADSR Envelope](media/221129ADSR.png)
 
 ##### 221129_FM_Brass_2_4.maxpat - Basic syntheziser
-![Basic Synthesiser](221129Snapshot.png)
+![Basic Synthesiser](media/221129Snapshot.png)
 
 You can save your parameter settings by opening the Snapshot (blue camera icon on the left, see zoomed in image) and then click on new in the list that will open up. You can retrieve snapshots by right-clicking on the item you want to have.
 
@@ -34,9 +35,9 @@ This patch allows you to see what happens if you have two oscillators running at
 
 An easy way to learn about sound synthesis is to follow the learning path on [Learning Synth](https://learningsynths.ableton.com/).
 
-![The Home Page](221129_Learning_Synths.png)
+![The Home Page](media/221129_Learning_Synths.png)
 
-![ToC](221129_Learing_Synths_Content.png)
+![ToC](media/221129_Learing_Synths_Content.png)
 
 Here is a list of all subjects covered. You can either go through the course page by page, or just skim through the course and choose on that menu the things you want to learn about. Please get an idea before you tackle the ```Recipes``` and ```Playground```. In these sections you can assemble/synthesise your own sounds.
 
@@ -44,13 +45,13 @@ Here is a list of all subjects covered. You can either go through the course pag
 ... also allows you to make an audio recording of your work and save the file on your computer.
 
 <a target="_blank" href="https://learningsynths.ableton.com/en/playground">
-  <img src="221129AbletonPlayground.png" alt="UI of Ableton Synths Playground"/>
+  <img src="media/221129AbletonPlayground.png" alt="UI of Ableton Synths Playground"/>
 </a>
 
 ##### The left column of the interface gives you plenty of possibilities:
 1. Record - You can record a clip of up to 60 seconds. When you stop the recording, a wav file will be saved on your computer. You can play it in MAX with the following simple patch:
 
-![SimpleWavPlayer](221129SimplePlayer2.png)
+![SimpleWavPlayer](media/221129SimplePlayer2.png)
 
 2. Export - You can export your clip to a Digital Audio Workstation (DAW) to create your own multitrack song.
 3. Sequence - Choose on one of the sequences available (drop-down menu under "Sequence" and then change the settings in the other columns and see what happens
