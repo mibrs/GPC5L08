@@ -9,7 +9,7 @@ Today you will learn more about synthesing of sound and music. We will use three
 3. Ableton's [Learning Synth](https://learningsynths.ableton.com/). The audio modules used on this website are also created with MAX.
 
 ## In More Detail
-An easy way to learn about sound synthesise is to follow the learning path on [Learning Synth](https://learningsynths.ableton.com/).
+An easy way to learn about sound synthesis is to follow the learning path on [Learning Synth](https://learningsynths.ableton.com/).
 
 ![The Home Page](221129_Learning_Synths.png)
 
@@ -17,7 +17,7 @@ An easy way to learn about sound synthesise is to follow the learning path on [L
 
 ![ToC](221129_Learing_Synths_Content.png)
 
-Here is a list of all subjects covered. You can either go through the course page by page, or just skin through the course and choose on that menu the things you want to learn about. Please get an idea before you tackle the ```Recipes``` and ```Playground```. In these sections you can assemble/synthesise your own sounds.
+Here is a list of all subjects covered. You can either go through the course page by page, or just skim through the course and choose on that menu the things you want to learn about. Please get an idea before you tackle the ```Recipes``` and ```Playground```. In these sections you can assemble/synthesise your own sounds.
 
 #### The ```Playground``` ...
 ... also allows you to make an audio recording of your work and save the file on your computer.
