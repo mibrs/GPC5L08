@@ -22,7 +22,7 @@ Here is a list of all subjects covered. You can either go through the course pag
 #### The ```Playground``` ...
 ... also allows you to make an audio recording of your work and save the file on your computer.
 
-<a target="_blank" href="https://learningsynths.ableton.com/en/playground)">
+<a target="_blank" href="https://learningsynths.ableton.com/en/playground">
   <img src="221129AbletonPlayground.png" alt="UI of Ableton Synths Playground"/>
 </a>
 
