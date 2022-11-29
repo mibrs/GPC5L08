@@ -13,7 +13,15 @@ An easy way to learn about sound synthesis is to follow the learning path on [Le
 
 ![The Home Page](221129_Learning_Synths.png)
 
-#### Table of Content
+#### Patches in the repository
+##### 221129_FM_Brass_2_4.maxpat - Basic syntheziser
+
+![Basic Synthesiser](221129Snapshot.png)
+
+You can save your parameter settings by opening the Snapshot (blue camera icon on the left, see zoomed in image) and then click on new in the list that will open up. You can retrieve snapshots by right-clicking on the item you want to have.
+
+
+#### Learning Synths Website
 
 ![ToC](221129_Learing_Synths_Content.png)
 
